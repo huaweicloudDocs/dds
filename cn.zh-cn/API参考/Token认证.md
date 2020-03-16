@@ -67,7 +67,7 @@
     }
     ```
 
-    上述命令中，部分参数值（斜体字）请参见以下说明替换为实际内容，具体请参考《统一身份认证服务API参考》的“[获取用户Token](https://support.huaweicloud.com/api-iam/zh-cn_topic_0057845583.html)”章节：
+    上述命令中，部分参数值（斜体字）请参见以下说明替换为实际内容，具体请参考《统一身份认证服务API参考》的“[获取用户Token](https://support.huaweicloud.com/api-iam/iam_30_0001.html)”章节：
 
     1.  _IAM__\_Endpoint_替换为[步骤1](#zh-cn_topic_0110967262_li14280177102918)中获取的IAM的Endpoint。
     2.  _username_和_password_分别替换为连接IAM服务器的用户名和密码。
